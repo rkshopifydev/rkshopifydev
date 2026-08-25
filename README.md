@@ -65,17 +65,21 @@ For traditional Shopify stores, I prefer **Liquid + Alpine.js + Vite** where pos
 For larger commerce platforms where storefront flexibility, scale, and infrastructure become more important, I work with **headless Shopify architectures using React and Next.js**.
 
 ---
-
 ## 🧰 `03 / Commerce stack`
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### 🛍️ Storefront
+### 🛍️ Shopify Development
 
 * Shopify
+* Shopify Plus
 * Liquid
+* Shopify Functions
+* Checkout UI Extensions
+* Shopify Flow
+* GraphQL
 * HTML
 * CSS
 * JavaScript
@@ -86,26 +90,32 @@ For larger commerce platforms where storefront flexibility, scale, and infrastru
 
 <td valign="top" width="33%">
 
-### ⚙️ Headless
+### ⚙️ Headless + Full Stack
 
 * React
 * Next.js
 * TypeScript
+* Python
 * Headless Shopify
+* API integrations
+* Web Scraping
 * Storefront architecture
+* Performance optimization
 
 </td>
 
 <td valign="top" width="33%">
 
-### 🚀 Performance + Data
+### 🎨 Design + UX
 
+* Figma
+* Conversion-focused UI
+* Responsive design
+* CRO
 * Core Web Vitals
 * LCP optimization
-* Google Tag Manager
-* Analytics
-* CRO
 * Technical SEO
+* Accessibility
 
 </td>
 </tr>
@@ -113,64 +123,154 @@ For larger commerce platforms where storefront flexibility, scale, and infrastru
 
 ---
 
-## 🧪 `04 / Currently exploring`
+## 🔌 `04 / Shopify ecosystem`
 
-```js
-const currently = {
-  building: "⚡ high-performance Shopify storefronts",
-  experimentingWith: [
-    "🧩 headless commerce",
-    "🤖 AI × ecommerce",
-    "🪶 lean frontend architecture",
-    "📈 conversion-focused storefront UX"
-  ],
-  avoiding: [
-    "🐘 unnecessary JavaScript",
-    "📦 bloated Shopify apps",
-    "🐌 slow storefronts"
-  ]
-};
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🔁 Subscriptions
+
+* Recharge
+* Bold Subscriptions
+* Shopify Subscriptions
+* Subscription UX
+* Recharge storefront customization
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🧩 Apps + Automation
+
+* Bold Discount
+* Hulk Apps
+* Shopify Flow
+* PageFly
+* GemPages
+* Replo
+* Custom app integrations
+
+</td>
+
+<td valign="top" width="33%">
+
+### 📣 Marketing + Analytics
+
+* Klaviyo
+* Google Tag Manager
+* Hotjar
+* Microsoft Clarity
+* Conversion tracking
+* Analytics implementation
+* CRO insights
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 `05 / Commerce operations`
+
+```text
+🏭 WAREHOUSE + FULFILLMENT
+├── SkuVault
+├── BlueCherry
+├── ShipStation
+├── Inventory workflows
+├── Order routing
+├── Fulfillment integrations
+└── Shipping workflows
+
+📊 DATA + AUTOMATION
+├── Shopify Flow
+├── GraphQL
+├── Python
+├── Web Scraping
+├── Data extraction
+├── Store automation
+└── Ecommerce reporting
 ```
 
 ---
 
-## 🚀 `05 / Selected commerce work`
+## 🛠️ `06 / Tools I reach for`
 
-### 🥇 Species Nutrition
+<p align="left">
 
-Custom Shopify development, storefront UX, cart experiences, integrations and performance work.
+<img src="https://cdn.simpleicons.org/shopify/96BF48" width="42" height="42" alt="Shopify" />
+&nbsp;&nbsp;
 
-→ https://speciesnutrition.com
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="42" height="42" alt="Figma" />
+&nbsp;&nbsp;
 
-### 💪 Levels Protein
+<img src="https://cdn.simpleicons.org/alpinedotjs/8BC0D0" width="42" height="42" alt="Alpine.js" />
+&nbsp;&nbsp;
 
-Shopify storefront development and custom ecommerce experiences.
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="42" height="42" alt="Vite" />
+&nbsp;&nbsp;
 
-→ https://levelsprotein.com
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript" />
+&nbsp;&nbsp;
 
-### ✨ The Line by K
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript" />
+&nbsp;&nbsp;
 
-Premium Shopify storefront development and frontend customization.
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React" />
+&nbsp;&nbsp;
 
-→ https://thelinebyk.com
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="42" height="42" alt="Next.js" />
+&nbsp;&nbsp;
 
-### 🌍 Artless Forever
+<img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" />
+&nbsp;&nbsp;
 
-Shopify development, international commerce and storefront enhancements.
+<img src="https://cdn.simpleicons.org/graphql/E10098" width="42" height="42" alt="GraphQL" />
+&nbsp;&nbsp;
 
-→ https://artlessforever.com
+<img src="https://cdn.simpleicons.org/klaviyo/000000" width="42" height="42" alt="Klaviyo" />
+
+</p>
 
 ---
 
-## 📊 `06 / GitHub`
+## 🧪 `07 / Currently exploring`
 
-<div align="center">
+```js
+const currently = {
+  building: [
+    "⚡ high-performance Shopify storefronts",
+    "🛍️ Shopify Plus experiences",
+    "🧩 headless commerce",
+    "🤖 AI-powered ecommerce tools"
+  ],
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rkshopifydev&show_icons=true&hide_border=true" />
+  workingWith: [
+    "Shopify Functions",
+    "Checkout UI Extensions",
+    "GraphQL",
+    "Python",
+    "Web Scraping",
+    "Shopify Flow"
+  ],
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkshopifydev&layout=compact&hide_border=true" />
+  optimizing: [
+    "Core Web Vitals",
+    "LCP",
+    "conversion funnels",
+    "storefront architecture",
+    "analytics"
+  ],
 
-</div>
+  avoiding: [
+    "🐘 unnecessary JavaScript",
+    "📦 bloated Shopify apps",
+    "🐌 slow storefronts",
+    "🧱 over-engineered ecommerce stacks"
+  ]
+};
+```
 
 ---
 
