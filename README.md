@@ -35,18 +35,6 @@ I build animated Shopify themes with **Liquid**, **Alpine.js**, and **Vite**, tu
 
 </p>
 
-### GitHub
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkshopifydev&theme=github_dark" alt="GitHub contributions" />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rkshopifydev&show_icons=true&theme=dark&hide_border=true" alt="rkshopifydev stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkshopifydev&layout=compact&theme=dark&hide_border=true" alt="rkshopifydev top langs" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkshopifydev&theme=dark&hide_border=true" alt="rkshopifydev streak" />
-</p>
 
 ### Connect with me
 
