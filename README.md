@@ -23,7 +23,6 @@ I build animated Shopify themes with **Liquid**, **Alpine.js**, and **Vite**, tu
 <p>
   <img src="https://cdn.simpleicons.org/shopify/96BF48" width="40" height="40" alt="Shopify" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" width="40" height="40" alt="WordPress" />
-  <img src="https://cdn.simpleicons.org/magento/EE672F" width="40" height="40" alt="Magento" />
   <img src="https://cdn.simpleicons.org/alpinedotjs/8BC0D0" width="40" height="40" alt="Alpine.js" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" alt="Vite" />
   <img src="https://cdn.simpleicons.org/css/1572B6" width="40" height="40" alt="CSS" />
@@ -32,9 +31,8 @@ I build animated Shopify themes with **Liquid**, **Alpine.js**, and **Vite**, tu
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript" />
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/googletagmanager/246FDB" width="40" height="40" alt="GTM" />
   <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" height="40" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/openai/412991" width="40" height="40" alt="Codex" />
+
 </p>
 
 ### GitHub
