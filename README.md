@@ -1,48 +1,189 @@
-# Hi, I'm Kashyap
+<div align="center">
 
-**Shopify Expert And full-stack web developer** — themes, GTM, and full-stack commerce for brands that need stores that look sharp and convert.
+# 👋 Hi, I'm Kashyap
 
-I build animated Shopify themes with **Liquid**, **Alpine.js**, and **Vite**, tuned for small and mid-size ecommerce. For enterprise brands, I design and run **headless Shopify** setups that stay fast, flexible, and easy to manage.
+### 🛍️ Shopify Expert · ⚡ Frontend Performance · 🧩 Headless Commerce
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rkshopifydev&label=Profile%20views&color=0e75b6&style=flat" alt="rkshopifydev" />
-</p>
+**I build Shopify storefronts that feel fast, look sharp, and convert. 🚀**
 
-[Portfolio](https://kash-portfolio.vercel.app) · [Email](mailto:ravalkashyap2010@gmail.com)
+Liquid · Alpine.js · Vite · React · Next.js · Headless Commerce
+
+<br/>
+
+[🌐 Portfolio](https://kash-portfolio.vercel.app) ·
+[💼 LinkedIn](https://www.linkedin.com/in/kashyap-raval9/) ·
+[📩 Email](mailto:ravalkashyap2010@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rkshopifydev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
-### Currently
-- Shopify theme craft — motion, Liquid, Alpine.js, Vite
-- GTM setup for Shopify-based stores
-- Headless Shopify for larger ecommerce brands
-- Open to thoughtful collaborations
+## 🛠️ `01 / What I build`
 
-### Things I reach for
+```text
+🛍️ SHOPIFY STOREFRONTS
+├── Custom Shopify themes
+├── Liquid architecture
+├── Interactive storefront experiences
+├── Alpine.js components
+├── Vite-powered development
+├── ⚡ Core Web Vitals optimization
+└── 📈 Conversion-focused UX
 
-<p>
-  <img src="https://cdn.simpleicons.org/shopify/96BF48" width="40" height="40" alt="Shopify" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="40" height="40" alt="WordPress" />
-  <img src="https://cdn.simpleicons.org/alpinedotjs/8BC0D0" width="40" height="40" alt="Alpine.js" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" alt="Vite" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" width="40" height="40" alt="CSS" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40" height="40" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" height="40" alt="Claude" />
+🧩 HEADLESS COMMERCE
+├── Shopify Storefront
+├── React / Next.js
+├── API-driven storefronts
+├── Performance architecture
+├── Large catalog strategies
+└── Modern deployment workflows
 
-</p>
+📊 ECOMMERCE INFRASTRUCTURE
+├── Google Tag Manager
+├── Analytics implementation
+├── Conversion tracking
+├── Third-party integrations
+└── Storefront debugging
+```
 
+---
 
-### Connect with me
+## 🧠 `02 / My approach`
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kashyap-raval9/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/YOUR_HANDLE/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+I don't like building ecommerce sites that are visually impressive but technically heavy.
+
+The goal is usually:
+
+> **✨ More interaction. 📦 Less JavaScript. ⚡ Faster storefronts. 🧼 Cleaner commerce architecture.**
+
+For traditional Shopify stores, I prefer **Liquid + Alpine.js + Vite** where possible.
+
+For larger commerce platforms where storefront flexibility, scale, and infrastructure become more important, I work with **headless Shopify architectures using React and Next.js**.
+
+---
+
+## 🧰 `03 / Commerce stack`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🛍️ Storefront
+
+* Shopify
+* Liquid
+* HTML
+* CSS
+* JavaScript
+* Alpine.js
+* Vite
+
+</td>
+
+<td valign="top" width="33%">
+
+### ⚙️ Headless
+
+* React
+* Next.js
+* TypeScript
+* Headless Shopify
+* Storefront architecture
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🚀 Performance + Data
+
+* Core Web Vitals
+* LCP optimization
+* Google Tag Manager
+* Analytics
+* CRO
+* Technical SEO
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 `04 / Currently exploring`
+
+```js
+const currently = {
+  building: "⚡ high-performance Shopify storefronts",
+  experimentingWith: [
+    "🧩 headless commerce",
+    "🤖 AI × ecommerce",
+    "🪶 lean frontend architecture",
+    "📈 conversion-focused storefront UX"
+  ],
+  avoiding: [
+    "🐘 unnecessary JavaScript",
+    "📦 bloated Shopify apps",
+    "🐌 slow storefronts"
+  ]
+};
+```
+
+---
+
+## 🚀 `05 / Selected commerce work`
+
+### 🥇 Species Nutrition
+
+Custom Shopify development, storefront UX, cart experiences, integrations and performance work.
+
+→ https://speciesnutrition.com
+
+### 💪 Levels Protein
+
+Shopify storefront development and custom ecommerce experiences.
+
+→ https://levelsprotein.com
+
+### ✨ The Line by K
+
+Premium Shopify storefront development and frontend customization.
+
+→ https://thelinebyk.com
+
+### 🌍 Artless Forever
+
+Shopify development, international commerce and storefront enhancements.
+
+→ https://artlessforever.com
+
+---
+
+## 📊 `06 / GitHub`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rkshopifydev&show_icons=true&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkshopifydev&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Building something interesting in commerce?
+
+I'm always interested in **Shopify, storefront performance, headless commerce and technically ambitious ecommerce projects.**
+
+**[🌐 View Portfolio](https://kash-portfolio.vercel.app) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/kashyap-raval9/) · [📩 Email Me](mailto:ravalkashyap2010@gmail.com)**
+
+<br/>
+
+`🛍️ Shopify` · `⚡ Performance` · `🧩 Commerce` · `💻 Frontend`
+
+</div>
